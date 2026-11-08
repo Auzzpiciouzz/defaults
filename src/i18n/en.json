@@ -1,0 +1,5 @@
+{
+  "%n types": { "one": "%n type", "other": "%n types" },
+  "%n types have no default": { "one": "%n type has no default", "other": "%n types have no default" },
+  "Some types open with %n other apps": { "one": "Some types open with another app", "other": "Some types open with %n other apps" }
+}

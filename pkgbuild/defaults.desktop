@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Defaults
+GenericName=Default Apps
+Comment=Choose which app opens each kind of file
+Keywords=default;apps;applications;open with;mime;file types;associations;
+Exec=defaults open
+Icon=defaults
+Terminal=false
+Categories=Settings;DesktopSettings;
+StartupWMClass=defaults
