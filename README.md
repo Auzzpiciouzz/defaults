@@ -15,6 +15,7 @@ Omarchy's menu already sets your browser, editor and terminal (Setup › Default
 ## Install
 
 ```bash
+git clone https://github.com/Auzzpiciouzz/defaults.git
 cd defaults
 bin/install
 ```
